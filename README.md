@@ -18,14 +18,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuuco&show_icons=true&theme=buefy)
 
-<div style="display:flex;">
-<a style="display:inline-block;" href="https://solved.ac/nuuco" alt="Solved.ac profile">
+<div>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nuuco"/>
-</a>
-<a style="display:inline-block;" href="https://solved.ac/nuuco" alt="Solved.ac record">
   <img src="http://mazandi.herokuapp.com/api?handle=nuuco&theme=warm"/>
-</a>
 </div>
+
 
 
 
