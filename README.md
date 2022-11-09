@@ -3,7 +3,7 @@
 <h3 align="center">Tech & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git" />
   </a>
 </p>
 
@@ -18,12 +18,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuuco&show_icons=true&theme=buefy)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nuuco)](https://solved.ac/nuuco)
-
-
- <img src="http://mazandi.herokuapp.com/api?handle=nuuco&theme=warm"/>
-
+<div style="display:flex;">
+<a style="display:inline-block;" href="https://solved.ac/nuuco" alt="Solved.ac profile">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nuuco"/>
+</a>
+<a style="display:inline-block;" href="https://solved.ac/nuuco" alt="Solved.ac record">
+  <img src="http://mazandi.herokuapp.com/api?handle=nuuco&theme=warm"/>
+</a>
+</div>
 
 
 
