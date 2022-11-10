@@ -21,10 +21,10 @@
   
 <h3>🎓 Algorithm</h3>
   
-<div>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nuuco"/>
-  <img src="http://mazandi.herokuapp.com/api?handle=nuuco&theme=warm"/>
-</div>
+<a href="https://solved.ac/profile/nuuco">
+  <img alt="solved.ac profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nuuco"/>
+  <img alt="solved.ac log" src="http://mazandi.herokuapp.com/api?handle=nuuco&theme=warm"/>
+</a>
 
 
 <!-- 리포 카드 넣기
