@@ -26,7 +26,10 @@
   <img alt="solved.ac log" src="http://mazandi.herokuapp.com/api?handle=nuuco&theme=warm"/>
 </a>
 
-
+<h2>📮 Contact</h2>
+  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nuuco.coding@gmail.com)](mailto:nuuco.coding@gmail.com)
+  
 <!-- 리포 카드 넣기
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuuco&repo=react-practice-with-study)](https://github.com/anuraghazra/github-readme-stats)
 -->
