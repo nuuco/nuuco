@@ -43,3 +43,8 @@
   <summary> <b>Daily Algorithm Solving</b> 🎉(2022-05-22 ~ 2023-05-27)</summary>
   <img width="919" alt="Daily Commit 2022-05-22 ~ 2023-05-27" src="https://github.com/nuuco/nuuco/assets/89282099/3f580ed7-5c0a-4a87-b486-8f63d14c0414">
 </details>
+<details>
+  <summary> <b>Daily Commit Every Day in 2023</b> 🎉(2023-01-01 ~ 2023-12-31)</summary>
+  <img width="919" alt="Daily Commit 2022-05-22 ~ 2023-05-27" src="https://github.com/nuuco/nuuco/assets/89282099/1f8af7d7-7409-4a77-9652-2afbe7465802">
+</details>
+
