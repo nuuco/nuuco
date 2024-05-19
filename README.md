@@ -47,4 +47,7 @@
   <summary> <b>Daily Commit Every Day in 2023</b> 🎉(2023-01-01 ~ 2023-12-31)</summary>
   <img width="919" alt="Daily Commit 2022-05-22 ~ 2023-05-27" src="https://github.com/nuuco/nuuco/assets/89282099/1f8af7d7-7409-4a77-9652-2afbe7465802">
 </details>
-
+<details>
+  <summary> <b>700th Daily Commit Every Day 700일 백준 풀기 데일리 커밋 완료</b> 🎉(2022-06-20 ~ 2024-05-19)</summary>
+  <img width="919" alt="700th Every Day 2022-06-20 ~ 2024-05-19" src="https://github.com/nuuco/nuuco/assets/89282099/bcfe2df4-c522-4c83-b8c7-43c09ab462ae">
+</details>
