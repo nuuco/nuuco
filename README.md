@@ -51,3 +51,4 @@
   <summary> <b>700th Daily Commit Every Day 700일 백준 풀기 데일리 커밋 완료</b> 🎉(2022-06-20 ~ 2024-05-19)</summary>
   <img width="919" alt="700th Every Day 2022-06-20 ~ 2024-05-19" src="https://github.com/nuuco/nuuco/assets/89282099/bcfe2df4-c522-4c83-b8c7-43c09ab462ae">
 </details>
+![스크린샷 2024-05-20 오후 8 51 54](https://github.com/nuuco/nuuco/assets/89282099/874e6da7-4a5e-4f36-937e-22b4d8e417b7)
